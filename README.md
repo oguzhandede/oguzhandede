@@ -1,113 +1,112 @@
 # Muhammet Oğuzhan Dede
 
-Backend Software Developer | .NET | Clean Architecture | CQRS | AI/LLM
+Backend Software Developer | .NET | Clean Architecture | CQRS | AI / LLM
 
-Backend ağırlıklı çalışan bir yazılımcıyım.  
-Odağım: **ölçeklenebilir sistemler, microservice mimarileri ve performans**.
+I am a backend-focused software developer specializing in **scalable systems**, **well-defined microservice architectures**, and **high-performance backends**.
 
-Projelerimde genelde:
-- .NET tabanlı servisler
-- Python ile AI / analiz katmanları
-- Next.js ile modern frontend
-birlikte çalışır.
-
-Oyuncak proje değil, **gerçek problem çözen sistemler** yazıyorum.
+I don’t build toy projects. I build **production-grade systems that solve real problems**.
 
 ---
 
-## ⚙️ Kullandığım Teknolojiler
+## ⚙️ Tech Stack
 
 ### Backend
-- C# / .NET 7–8
-- ASP.NET Core Web API
-- Clean Architecture, CQRS
-- Microservice mimarileri
-- Entity Framework Core, Dapper
-- Redis (cache)
-- RabbitMQ (event / async iletişim)
-- PostgreSQL, MSSQL
+
+* C# / .NET 7–8
+* ASP.NET Core Web API
+* Clean Architecture, CQRS
+* Microservice architectures
+* Entity Framework Core, Dapper
+* Redis (caching)
+* RabbitMQ (event-driven & async messaging)
+* PostgreSQL, MSSQL
 
 ### AI / Data / Python
-- Python
-- AI agent yapıları
-- Kamera / stream bazlı analiz
-- Asenkron worker servisler
-- Model entegrasyonu ve veri işleme
+
+* Python
+* AI agent architectures
+* Camera / stream-based analysis
+* Asynchronous worker services
+* Model integration & data pipelines
 
 ### Frontend
-- Next.js
-- React
-- Modern component yapıları
-- API-first frontend yaklaşımı
 
-### DevOps / Infra
-- Docker
-- Linux
-- Çoklu servis orchestration
-- Local + server ortamları
+* Next.js
+* React
+* Modern component architectures
+* API-first frontend design
+
+### DevOps / Infrastructure
+
+* Docker
+* Linux
+* Multi-service orchestration
+* Local & server environments
 
 ---
 
-## 🧩 Öne Çıkan Projeler
+## 🧩 Featured Projects
 
 ### 🚦 SwarmGrid
-https://github.com/oguzhandede/SwarmGrid
 
-Gerçek dünyadan veri toplayan, analiz eden ve bunu anlamlı çıktıya dönüştüren bir sistem.
+[https://github.com/oguzhandede/SwarmGrid](https://github.com/oguzhandede/SwarmGrid)
 
-**Nedir?**
-- Kamera / stream kaynaklarından veri alır
-- Python servisleri ile analiz yapar
-- .NET backend ile merkezi kontrol sağlar
-- Genişlemeye açık microservice mimarisi
+A real-world system that collects physical-space data, analyzes it, and turns it into actionable insights.
 
-**Neyi çözüyor?**
-- Fiziksel alanlardaki yoğunluk ve hareket analizi
-- Gerçek zamanlı + geçmiş veri analizi
-- AI destekli karar altyapısı
+**What it does**
 
-Bu proje benim için:
-> microservice + Python + .NET birlikte nasıl çalışır  
-sorusunun gerçek cevabı.
+* Ingests data from camera / stream sources
+* Performs analytics using Python services
+* Centralized control via a .NET backend
+* Designed with an extensible microservice architecture
+
+**Problems it solves**
+
+* Crowd density & movement analysis in physical environments
+* Real-time + historical analytics
+* AI-assisted decision support
+
+> This project is my practical answer to:
+> *How do Python, .NET, and microservices work together in a real system?*
 
 ---
 
 ### 📦 Kayra Export
-https://github.com/oguzhandede/Kayra-Export
 
-Kurumsal ölçekte geliştirilmiş, iş süreçlerine odaklı backend sistemi.
+[https://github.com/oguzhandede/Kayra-Export](https://github.com/oguzhandede/Kayra-Export)
 
-**Öne çıkanlar:**
-- .NET Web API
-- Clean Architecture yaklaşımı
-- CQRS ve katmanlı yapı
-- Performans odaklı veri erişimi
-- Genişletilebilir servis tasarımı
+An enterprise-oriented backend system focused on real business workflows.
 
-Bu proje:
-> “kurumsal backend nasıl yazılır?”  
-sorusuna verdiğim net cevap.
+**Highlights**
 
----
+* .NET Web API
+* Clean Architecture approach
+* CQRS & layered design
+* Performance-oriented data access
+* Highly extensible service design
 
-## 🧠 Yaklaşımım
-
-- Microservice varsa **iletişim ve sınırlar net olmalı**
-- Performans problemi varsa **önce ölç, sonra çöz**
-- Backend tek başına değil, **frontend ve data ile birlikte düşünülmeli**
-- Kod okunabilir değilse, çalışıyor olması umurumda değil
+> This project represents my answer to:
+> *How should enterprise-grade backends be built?*
 
 ---
 
-## 🧪 Şu an neyle ilgileniyorum?
+## 🧠 Engineering Philosophy
 
-- AI + backend birleşimi
-- Gerçek zamanlı sistemler
-- Dağıtık mimariler
-- Python servisleri ile .NET sistemlerin birlikte çalışması
+* Microservices require **clear boundaries and explicit communication**
+* Performance problems should be **measured before optimized**
+* Backend systems must be designed **together with frontend and data layers**
+* If code isn’t readable, I don’t care if it works
 
 ---
 
-Kodlarım konuşur.  
-README sadece yolu gösterir.
+## 🧪 Current Focus
 
+* AI + backend convergence
+* Real-time systems
+* Distributed architectures
+* Interoperability between Python services and .NET backends
+
+---
+
+**Code speaks.**
+README files simply point the way.
