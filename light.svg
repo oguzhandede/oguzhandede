@@ -111,7 +111,7 @@
         <text x="516" y="242" fill="#2563EB">◈</text><text x="545" y="242" fill="#475569">Experience</text><text x="665" y="242" fill="#334155">Enterprise Software &amp; Scalable Systems</text>
         <text x="516" y="266" fill="#10B981">⌘</text><text x="545" y="266" fill="#475569">Education</text><text x="665" y="266" fill="#334155">Computer Programming • Business Administration</text>
         <text x="516" y="290" fill="#06B6D4">◎</text><text x="545" y="290" fill="#475569">Current Focus</text><text x="665" y="290" fill="#334155">Distributed Systems, AI/LLM &amp; System Design</text>
-        <text x="516" y="314" fill="#2563EB">↗</text><text x="545" y="314" fill="#475569">Portfolio</text><text x="665" y="314" fill="#334155">pinner.com.tr</text>
+        <text x="516" y="314" fill="#2563EB">↗</text><text x="545" y="314" fill="#475569">Portfolio</text><text x="665" y="314" fill="#334155">ulako.co</text>
         <text x="516" y="338" fill="#10B981">✉</text><text x="545" y="338" fill="#475569">Email</text><text x="665" y="338" fill="#334155">moguzhandede@gmail.com</text>
       </g>
       <text x="516" y="378" font-size="11" font-weight="800" letter-spacing="1.8" fill="#64748B">CURRENTLY BUILDING</text>
@@ -169,12 +169,12 @@
       </g>
 
       <rect x="34" y="1056" width="538" height="188" rx="24" fill="#F8FAFC" fill-opacity=".94" stroke="#0F172A" stroke-opacity=".08" filter="url(#lightShadow)"/>
-      <text x="70" y="1098" font-size="12" font-weight="800" letter-spacing="2" fill="#64748B">FEATURED SYSTEM — SWARMGRID</text>
-      <text x="70" y="1132" font-size="15" fill="#0F172A" font-weight="700">Physical-space data, analytics services, and backend coordination.</text>
+      <text x="70" y="1098" font-size="12" font-weight="800" letter-spacing="1.4" fill="#64748B">SYSTEM — SWARMGRID</text>
+      <text x="70" y="1132" font-size="15" fill="#0F172A" font-weight="700">Physical-space data + backend coordination.</text>
       <g font-size="13" fill="#334155">
         <text x="70" y="1164">• Camera and stream-oriented data ingestion</text>
         <text x="70" y="1190">• Python analytics services coordinated by a .NET backend</text>
-        <text x="70" y="1216">• Microservice-oriented design for real-time and historical analysis</text>
+        <text x="70" y="1216">• Microservice design for live and historical analysis</text>
       </g>
       <a href="https://github.com/oguzhandede/SwarmGrid"><text x="70" y="1238" font-size="12" fill="#06B6D4">github.com/oguzhandede/SwarmGrid</text></a>
 
@@ -191,7 +191,7 @@
       <rect x="34" y="1270" width="1112" height="56" rx="20" fill="#F8FAFC" fill-opacity=".94" stroke="#0F172A" stroke-opacity=".08"/>
       <a href="https://github.com/oguzhandede"><text x="70" y="1304" font-size="13" fill="#334155">GitHub  github.com/oguzhandede</text></a>
       <a href="https://www.linkedin.com/in/oguzdede"><text x="335" y="1304" font-size="13" fill="#334155">LinkedIn  linkedin.com/in/oguzdede</text></a>
-      <a href="https://pinner.com.tr"><text x="650" y="1304" font-size="13" fill="#334155">Portfolio  pinner.com.tr</text></a>
+      <a href="https://ulako.co"><text x="650" y="1304" font-size="13" fill="#334155">Portfolio  ulako.co</text></a>
       <a href="mailto:moguzhandede@gmail.com"><text x="870" y="1304" font-size="13" fill="#334155">Email  moguzhandede@gmail.com</text></a>
     </g>
   </g>
