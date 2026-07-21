@@ -12,48 +12,43 @@
 
 ## Backend Software Developer
 
-I build scalable enterprise systems with **.NET**, distributed architectures, and production-ready backend foundations. My work sits at the intersection of backend engineering, full-stack delivery, and practical AI/LLM-powered solutions.
+I design and build scalable backend systems with **.NET**, distributed architectures, and pragmatic AI/LLM integrations.
 
-I focus on systems that are maintainable, measurable, and built around real business workflows.
+My work focuses on production-ready software: clear boundaries, reliable data flows, measurable performance, and maintainable architecture. I can work across the full stack when needed, but my strongest focus is backend engineering and system design.
 
 ---
 
-## Core Stack
+## What I Build
 
-**Backend**
+- **Enterprise backends** with ASP.NET Core, SQL Server, PostgreSQL, Redis, and RabbitMQ
+- **Distributed systems** with explicit service boundaries, async messaging, and resilient workflows
+- **AI-powered products** that connect LLM capabilities with real business use cases
+- **Full-stack platforms** where backend architecture, frontend delivery, and data flow stay aligned
+- **Production foundations** that prioritize maintainability, observability, and long-term ownership
 
-- C# / .NET 8
-- ASP.NET Core Web API
-- Clean Architecture, CQRS, DDD
-- Microservices and distributed systems
-- Entity Framework Core, Dapper
-- SQL Server, PostgreSQL
-- Redis, RabbitMQ
+---
 
-**AI / LLM Engineering**
+## Core Engineering Stack
 
-- Python
-- LLM integrations
-- RAG-based workflows
-- AI-assisted business systems
-- Asynchronous worker services
-- Data and model integration pipelines
-- Ollama and local AI experimentation
+| Area | Technologies |
+| --- | --- |
+| Backend | C#, .NET 8, ASP.NET Core, Web API |
+| Architecture | Clean Architecture, CQRS, DDD, Microservices |
+| Data | SQL Server, PostgreSQL, Entity Framework Core, Dapper |
+| Messaging & Cache | RabbitMQ, Redis, async workers |
+| Frontend | React, Next.js, TypeScript |
+| AI / LLM | Python, LLM integrations, RAG, Ollama |
+| Infrastructure | Docker, Linux, multi-service environments |
 
-**Frontend**
+---
 
-- React
-- Next.js
-- TypeScript
-- API-first interface design
-- Full-stack product delivery
+## Current Focus
 
-**Infrastructure**
-
-- Docker
-- Linux
-- Multi-service orchestration
-- Production-oriented service design
+- Building scalable enterprise platforms with clean backend foundations
+- Designing distributed systems that are understandable under real operational pressure
+- Connecting .NET backends with Python services and AI/LLM workflows
+- Turning LLM features into practical, testable, product-level capabilities
+- Improving system design, performance, and maintainability through measured decisions
 
 ---
 
@@ -63,22 +58,20 @@ I focus on systems that are maintainable, measurable, and built around real busi
 
 [github.com/oguzhandede/SwarmGrid](https://github.com/oguzhandede/SwarmGrid)
 
-A real-world system that collects physical-space data, analyzes it, and turns it into actionable insights.
+A system for collecting physical-space data, processing it through analytical services, and turning it into actionable insights.
 
-**What it does**
+**Engineering scope**
 
-- Ingests data from camera and stream sources
-- Runs analytics through Python services
-- Coordinates system behavior through a .NET backend
-- Uses an extensible microservice-oriented architecture
-- Supports real-time and historical analysis scenarios
+- Camera and stream-oriented data ingestion
+- Python-based analytics services
+- .NET backend coordination layer
+- Microservice-oriented architecture
+- Real-time and historical analysis scenarios
+- AI-assisted decision support patterns
 
-**Engineering focus**
+**Why it matters**
 
-- Distributed backend design
-- AI-assisted analysis pipelines
-- Service boundaries between Python and .NET
-- Practical system architecture for physical-world data
+SwarmGrid represents the kind of system I like to build: backend-heavy, data-driven, distributed, and connected to real-world operational problems.
 
 ---
 
@@ -86,30 +79,44 @@ A real-world system that collects physical-space data, analyzes it, and turns it
 
 [github.com/oguzhandede/Kayra-Export](https://github.com/oguzhandede/Kayra-Export)
 
-An enterprise-oriented backend system focused on real business workflows and maintainable architecture.
+An enterprise-oriented backend system designed around business workflows, maintainable architecture, and extensible service design.
 
-**Highlights**
+**Engineering scope**
 
-- .NET Web API
-- Clean Architecture
+- ASP.NET Core Web API
+- Clean Architecture structure
 - CQRS and layered design
 - Performance-oriented data access
-- Extensible service structure
-- Business-focused backend modeling
+- Business-focused domain modeling
+- Extensible backend service boundaries
+
+**Why it matters**
+
+Kayra Export reflects my approach to enterprise software: keep the architecture disciplined, model business behavior clearly, and avoid unnecessary complexity.
 
 ---
 
-## Engineering Focus
+## Engineering Principles
 
-- Designing scalable backends with clear service boundaries
-- Building distributed systems that are observable and maintainable
-- Connecting .NET backends with Python and AI services
-- Turning LLM capabilities into practical product features
-- Keeping architecture simple until complexity is justified
+- Architecture should reduce ambiguity, not add ceremony.
+- Microservices need clear ownership, explicit contracts, and observable communication.
+- Performance work should start with measurement, not assumptions.
+- Backend systems should be designed together with data, frontend, and operational constraints.
+- Code that cannot be understood under pressure is not production-ready.
 
 ---
 
-## Contact
+## Profile Snapshot
+
+- **Location:** Istanbul, Türkiye
+- **Role:** Backend Software Developer
+- **Focus:** .NET, distributed systems, full-stack delivery, AI/LLM engineering
+- **Portfolio:** [pinner.com.tr](https://pinner.com.tr)
+- **Email:** [moguzhandede@gmail.com](mailto:moguzhandede@gmail.com)
+
+---
+
+## Connect
 
 - GitHub: [github.com/oguzhandede](https://github.com/oguzhandede)
 - LinkedIn: [linkedin.com/in/oguzdede](https://www.linkedin.com/in/oguzdede)
